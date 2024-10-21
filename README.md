@@ -79,32 +79,50 @@ for i in range(0, 9):
 ## Output
 
 ### Original Image
+
 <br>
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/eb7e3530-3534-4729-bb37-c55e5636baa3)
+
 
 ### Global Thresholding
+
 <br>
+
+![image](https://github.com/user-attachments/assets/4cc150ba-f918-4fc5-9ea2-787b08b73687)
+
 <br>
+
+![image](https://github.com/user-attachments/assets/8210145e-3c88-4629-a620-8f81e21be04c)
+
 <br>
+
 <br>
+
+![image](https://github.com/user-attachments/assets/9ff10537-5d23-4bec-8d42-9456fb0f1b0d)
+
 <br>
+
+![image](https://github.com/user-attachments/assets/f2a6d7d3-70f7-490f-a5c0-ddb3d72d67a2)
+
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
+![image](https://github.com/user-attachments/assets/489d9203-c016-4976-8861-09b11beef2b0)
+<br>
+
+![image](https://github.com/user-attachments/assets/4dcc91c3-767e-4a27-8209-5dfa87b3ce84)
+
+
 ### Optimum Global Thesholding using Otsu's Method
+
 <br>
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/032859be-ca7f-42b9-89d0-e60d80995347)
+
+
 
 
 ## Result
