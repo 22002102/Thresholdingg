@@ -113,7 +113,8 @@ for i in range(0, 9):
 ![image](https://github.com/user-attachments/assets/489d9203-c016-4976-8861-09b11beef2b0)
 <br>
 
-![image](https://github.com/user-attachments/assets/4dcc91c3-767e-4a27-8209-5dfa87b3ce84)
+![image](https://github.com/user-attachments/assets/c1726f6e-157c-4fe1-b1b5-0978c446bbd1)
+
 
 
 ### Optimum Global Thesholding using Otsu's Method
